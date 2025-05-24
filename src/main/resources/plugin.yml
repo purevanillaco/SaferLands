@@ -1,0 +1,7 @@
+name: SaferLands
+author: quiquelhappy
+depend:
+  - Lands
+version: 1.0.0
+api-version: 1.21
+main: co.purevanilla.mcplugins.saferlands.Main
